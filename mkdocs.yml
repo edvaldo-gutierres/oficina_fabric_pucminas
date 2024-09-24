@@ -1,0 +1,8 @@
+site_name: Oficina Fabric PUC Minas
+nav:
+  - Home: index.md
+  - Base de dados: passo_a_passo.md
+theme:
+  name: material
+dev_addr: 127.0.0.1:8081
+
