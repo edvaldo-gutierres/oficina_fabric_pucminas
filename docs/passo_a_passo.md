@@ -79,7 +79,7 @@ Com o servidor rodando, acesse a API em um navegador ou ferramenta como o **Post
 
 Esse endpoint irá retornar uma lista de 10 negócios com dados simulados, incluindo:
 
-- Negócio
+- Filial
 - Data de Negociação
 - Nota Fiscal
 - Data de Vencimento
