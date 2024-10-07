@@ -75,7 +75,7 @@ Este comando irá iniciar um servidor de desenvolvimento que será automaticamen
 
 Com o servidor rodando, acesse a API em um navegador ou ferramenta como o **Postman** através do seguinte endereço:
 
-- **Endpoint de Negócios**: `http://127.0.0.1:8000/business`
+- **Endpoint de Negócios**: `http://127.0.0.1:8080/business`
 
 Esse endpoint irá retornar uma lista de 10 negócios com dados simulados, incluindo:
 

@@ -1,7 +1,9 @@
 # **Sistema de Apoio à Decisão para Análise de Vendas e Comissão**
 
 ### **1. Introdução**
-Este projeto visa desenvolver um sistema de apoio à decisão utilizando o Microsoft Fabric, com foco na consolidação e análise de dados de vendas de uma empresa fictícia do setor do agronegócio. Além disso, o sistema calculará automaticamente as comissões de vendedores e gerentes com base nas vendas realizadas. O objetivo é oferecer uma solução integrada, automatizada e escalável para o cálculo de comissões e análise de vendas.
+Este projeto visa desenvolver um Sistema de Apoio à Decisão (SAD) utilizando o Microsoft Fabric para fins de demonstração da plataforma.
+
+**Use Case**: Análise de dados de vendas de uma empresa fictícia do setor do agronegócio.
 
 ### **2. Objetivo**
 Desenvolver um pipeline end-to-end no Microsoft Fabric para consolidar dados de vendas e cadastros, calcular comissões e fornecer insights valiosos por meio de visualizações dinâmicas no Power BI.
